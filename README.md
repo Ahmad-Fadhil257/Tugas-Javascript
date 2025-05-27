@@ -1,2 +1,3 @@
 # Tugas-Javascript
-INI TUGAS JAVASCRIPT
+
+Di sini berisi 100 program javascript
